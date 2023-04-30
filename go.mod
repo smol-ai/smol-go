@@ -1,4 +1,4 @@
-module example.com/hello
+module smol.ai
 
 go 1.12
 
